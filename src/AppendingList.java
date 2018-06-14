@@ -25,5 +25,4 @@ public class AppendingList<Type> {
     public Type getObject(int position){
         return this.array[position];
     }
-
 }
